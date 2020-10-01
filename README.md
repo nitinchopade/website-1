@@ -1,4 +1,4 @@
-The New elementary.io
+The fresh New elementary.io
 ================
 
 [![Build Status](https://travis-ci.org/elementary/website.svg?branch=master)](https://travis-ci.org/elementary/website)
@@ -56,7 +56,7 @@ Security
 
 Please see [SECURITY.md](./SECURITY.md) for information about disclosure policy and contact.
 
-License
+License and agreement
 =======
 
 This project has a [MIT license](LICENSE.md).
